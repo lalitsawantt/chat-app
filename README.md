@@ -1,6 +1,6 @@
 # chat-app
 
-This is a chat app project created using (chat engine)[https://chatengine.io/].
+This is a chat app project created using [chat engine](https://chatengine.io/).
 This is a work in progress. Please refrain from following any of the steps. This is just for my own satisfaction.
 
 To start the project:
